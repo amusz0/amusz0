@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Franky Amu</h1>
-<h3 align="center">Desarrollador web front-end, especializo en el ecosistema React.</h3>
+<h3 align="center">Desarrollador web front-end, especializado en el ecosistema React.</h3>
 
-- 👨‍💻 Portafolio [En actualización...](En actualización...)
+- 👨‍💻 Portafolio [En actualización...]
 
 - 📫 Contacto **frankyamuml@gmail.com**
 
