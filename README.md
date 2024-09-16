@@ -39,8 +39,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/blogger/#f57d00" height="40" alt="blogger logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
